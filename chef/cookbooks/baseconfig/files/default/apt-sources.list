@@ -7,3 +7,5 @@ deb http://mirror.its.sfu.ca/mirror/ubuntu/ xenial-backports main restricted uni
 
 deb http://security.ubuntu.com/ubuntu xenial-security main restricted universe multiverse
 #deb-src http://security.ubuntu.com/ubuntu xenial-security main restricted universe multiverse
+
+deb [ arch=amd64,arm64 ] https://repo.mongodb.org/apt/ubuntu xenial/mongodb-org/3.6 multiverse

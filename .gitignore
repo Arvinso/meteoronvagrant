@@ -1,0 +1,8 @@
+*~
+.vagrant
+
+*.pyc
+*.sqite3
+
+log/*
+.bundle
